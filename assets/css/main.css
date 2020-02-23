@@ -1687,6 +1687,14 @@
 		margin: 0 0 2em 0;
 	}
 
+	.content p {
+		text-align: justify;
+	}
+
+	.content h3 {
+		text-align: center;
+	}
+
 	h1, h2, h3, h4, h5, h6 {
 		color: #727a82;
 		font-weight: 700;
@@ -3142,11 +3150,11 @@
 
 	@media screen and (max-width: 980px) {
 
-		#listanozze {
+		#weddingregistry {
 			text-align: center;
 		}
 
-		#chiesa {
+		#location {
 			text-align: center;
 		}
 
